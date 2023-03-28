@@ -124,7 +124,7 @@ touch events handling, drag & drop to move photos, and merge albums.
 ### AXA Group Operations - Fullstack Developer NodeJS 🇫🇷
 🗓 ___2014 - 2015___
 
-#### News2Protect
+#### News2Protect
 - Running and evolutions.
 - Technologies : JavaScript / SASS /Gulp / HTML5 / CSS / Git.
 
