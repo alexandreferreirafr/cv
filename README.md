@@ -22,6 +22,7 @@ Alexandre Ferreira - Geneva CH 🇨🇭
 ## Other Skills
 
 - VanillaJS
+- ThreeJS
 - SolidJS
 - Vue
 - Astro
