@@ -46,24 +46,67 @@ Alexandre Ferreira - Genève CH 🇨🇭
 
 # Expériences professionnelles
 
-### Richemont - Consultant Frontend 🇨🇭
+### Richemont - Senior Frontend Developer 🇨🇭
 🗓 ___2021 - aujourd'hui___
 
 #### Store Front Accelerator
 
-- Une application qui sert de base à de nombreuses applications e-commerce du groupe (Van Cleef Arpels, Vacheron Constantin, IWC, Baume et Mercier, Montblanc, etc.).
-- Création d'une nouvelle application utilisant des motifs de conception frontend modernes pour augmenter le développement de nouvelles fonctionnalités et la vitesse de maintenance. Elle est basée sur un monorépository composé de micro-librairies modulaires et remplace l'ancienne implémentation obsolète.
-- Technologies: NX, React/TypeScript (hooks and context), Node, Jest, and Cypress for the tests, and AEM as CMS.
-- Qualité du code: assurée par des principes craftsmanship tels que TDD/BDD et revues de code. Analyse effectuée par Sonarqube.
+En tant que Consultant Frontend chez Richemont, j'ai participé au développement et à l'amélioration du Store Front Accelerator, qui sert de base aux applications web de commerce électronique pour plusieurs marques de luxe du groupe (Van Cleef Arpels, Vacheron Constantin, IWC, Baume et Mercier, Montblanc).
+
+Principales contributions :
+
+- Création d'une nouvelle application en utilisant des modèles de conception frontend modernes pour améliorer considérablement la vitesse de développement et l'efficacité de maintenance. L'implémentation repose sur un mono repository composé de libraries modulaires remplaçant l'ancienne implémentation obsolète.
+- Utilisé NX, React/TypeScript avec hooks et context API, Jest pour les tests unitaires et Cypress pour les tests end-to-end.
+- Collaboré étroitement avec des équipes pluridisciplinaires comprenant des designers et développeurs backend afin d'assurer une intégration transparente avec les systèmes backend.
+- Mis en place des processus efficaces d'examen du code et respecter des principes artisanaux tels que TDD/BDD pour garantir un code de haute qualité.
+- Assuré la qualité du code grâce à une analyse régulière à l'aide de Sonarqube.
+
+Compétences & Technologies :
+
+- Maîtrise du TypeScript/JavaScript ainsi que du framework React.
+- Solide compréhension des modèles modernes de conception React incluant les hooks, context API, HOCs (Higher-Order Components), render props, etc.
+- Compétence dans l'utilisation de frameworks de tests tels que Jest pour les tests unitaires et Cypress pour les tests end-to-end.
+- Expérience avec les plateformes CMS telles qu'Adobe Experience Manager (AEM).
+- Connaissance des systèmes de contrôle de version comme Git.
+- Expérience dans le travail avec des APIs RESTful.
+- Compréhension solide des principes du design web responsive et la compatibilité multi-navigateurs.
+
+Compétences relationnelles :
+
+- Solides capacités de résolution de problèmes, garantissant des processus efficaces de débogage.
+- Excellentes compétences en communication et collaboration pour assurer une coordination transparente au sein de l'équipe.
+- Attention méticuleuse aux détails et engagement à fournir un travail de haute qualité.
+- Capacité à prospérer dans des environnements de développement rapides et agiles.
 
 ### Alllianz Trade - Tech Lead Frontend 🇫🇷
 🗓 ___2019 - 2021___
 
 #### Projet GUSTO
 
-- Une application web permettant aux utilisateurs d'acheter et de s'abonner à des obligations et des carnets ATA pour la France, la Suisse et l'Italie.
-- Technologies: React/TypeScript (hooks and context), Jest and Cypress for the tests, Gitlab comme repository CI/CD, et AWS comme fournisseur de cloud.
-- La qualité du code était assurée par des principes artisanaux tels que TDD/BDD et la revue de code. Analysé par Sonarqube.
+Dans mon rôle de Tech Lead Frontend chez Allianz Trade, j'ai joué un rôle clé dans le développement et le leadership du projet GUSTO. Cette application web permet aux utilisateurs d'acheter et de s'abonner facilement à des obligations et ATA Carnets pour la France, la Suisse et l'Italie.
+
+Contributions clés :
+
+- Assuré la livraison du projet GUSTO, en veillant au respect des délais du projet et des normes de qualité.
+- Exploité React/TypeScript avec les hooks et l'API contextuelle pour créer des interfaces utilisateur robustes avec une interactivité améliorée.
+- Mis en place des stratégies de test efficaces en utilisant Jest pour les tests unitaires et Cypress pour les tests de bout en bout, garantissant ainsi une fonctionnalité fiable dans différents scénarios.
+- Utilisé Gitlab comme plateforme CI/CD du référentiel pour une gestion efficace du code et des processus de déploiement.
+- Collaboré étroitement avec des équipes pluridisciplinaires comprenant des concepteurs, des développeurs backend et des ingénieurs QA afin d'assurer une intégration transparente dans l'architecture globale du système.
+- Maintenu un code de haute qualité grâce à des pratiques rigoureuses telles que le développement piloté par les tests (TDD) / développement piloté par le comportement (BDD), ainsi qu'à travers régulièrement examens de code.
+- Employé Sonarqube pour une analyse continue de la base de code.
+
+Compétences & Technologies :
+
+- Maîtrise de React/TypeScript en utilisant des modèles de conception tels que les hooks et l'API de contexte.
+- Expérience de travail avec Gitlab en tant que plateforme de CI/CD et repository.
+- Solide connaissance des services cloud AWS utilisés pendant le processus de développement de l'application.
+- Compréhension solide des principes de conception web responsive assurant la compatibilité sur divers appareils.
+
+Compétences relationnelles :
+
+- Capacité à diriger efficacement des équipes tout en maintenant des canaux de communication ouverts pour favoriser la collaboration entre les membres.
+- Compétences en résolution de problèmes et souci du détail, garantissant la livraison d'un travail de haute qualité.
+- Capacité à s'adapter et à prospérer dans des environnements à rythme rapide.
 
 ### Axa France - Tech Lead Frontend 🇫🇷
 🗓 ___2017 - 2019___
