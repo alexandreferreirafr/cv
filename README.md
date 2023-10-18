@@ -51,22 +51,61 @@ Alexandre Ferreira - Geneva CH 🇨🇭
 
 #### Store Front Accelerator
 
-- An e-commerce application that is the basis for many e-commerce web
-applications of the Group (Van Cleef Arpels, Vacheron Constantin, IWC,
-Baume et Mercier, Montblanc, etc).
-- Creation of a new application using modern frontend design patterns to increase the development of new features and maintenance speed. It is based on a mono repository of modular micro libraries and replaces the old legacy implementation.
-- Technologies: NX, React/TypeScript (hooks and context), Node, Jest, and Cypress for the tests, and AEM as CMS.
-- Code quality: insured by craftsmanship principles like TDD/BDD, and code review. Analyzed by Sonarqube.
+As a Frontend Consultant at Richemont, I have been involved in the development and enhancement of the Store Front Accelerator, which serves as the foundation for e-commerce web applications across multiple luxury brands within the group (Van Cleef Arpels, Vacheron Constantin, IWC, Baume et Mercier, Montblanc).
+
+Key contributions:
+
+- Led the creation of a new application using modern frontend design patterns to significantly improve development speed and maintenance efficiency. The implementation is based on a mono repository of modular micro libraries that replaces legacy codebase.
+- Utilized NX, React/TypeScript with hooks and context API, Jest for unit testing, and Cypress for end-to-end testing.
+- Collaborated closely with cross-functional teams including designers and backend developers to ensure seamless integration with back-end systems.
+- Implemented efficient code review processes and adhered to craftsmanship principles such as TDD/BDD to ensure high-quality code standards.
+- Ensured code quality through regular analysis using Sonarqube.
+
+Skills & Technologies:
+
+- Proficient in TypeScript/JavaScript along with React.
+- Strong understanding of modern React design patterns including hooks, context API, HOCs, render props, etc.
+- Skilled in utilizing testing frameworks like Jest for unit testing and Cypress for end-to-end testing.
+- Adept at working with CMS platforms such as Adobe Experience Manager (AEM).
+- Knowledgeable in version control systems like Git.
+- Experience working with RESTful APIs
+- Solid understanding of responsive web design principles and cross-browser compatibility.
+
+Soft Skills:
+
+- Strong problem-solving abilities, ensuring effective debugging processes.
+- Excellent communication and collaboration skills for seamless team coordination.
+- Meticulous attention to detail and a commitment to delivering high-quality work.
+- Ability to thrive in fast-paced, agile development environments.
 
 ### Alllianz Trade - Tech Lead Frontend 🇫🇷
 🗓 ___2019 - 2021___
 
 #### Project GUSTO
 
-- A web application for users to buy and subscribe to bonds and ATA Carnets for France, Switzerland, and Italy.
-- Technologies: React/TypeScript (hooks and context), Jest and Cypress for the
-tests, Gitlab as a repository CI/CD, and AWS as a cloud provider.
-- Code quality was insured by craftsmanship principles like TDD/BDD, and code review. Analyzed by Sonarqube.
+In my role as a Tech Lead Frontend at Allianz Trade, I played a key role in the development and leadership of Project GUSTO. This web application allows users to conveniently purchase and subscribe to bonds and ATA Carnets for France, Switzerland, and Italy.
+
+Key Contributions:
+
+- Led the delivery of Project GUSTO, ensuring adherence to project timelines and quality standards.
+- Leveraged React/TypeScript with hooks and context API to create robust user interfaces with enhanced interactivity.
+- Implemented effective testing strategies using Jest for unit testing and Cypress for end-to-end testing, guaranteeing reliable functionality across different scenarios.
+- Utilized Gitlab as the repository CI/CD platform for efficient code management and deployment processes.
+- Collaborated closely with cross-functional teams including designers, backend developers, and QA engineers to ensure seamless integration within the overall system architecture.
+- Maintained high code quality through rigorous craftsmanship practices such as Test-driven Development (TDD) / Behavior-driven Development (BDD) methodologies along with regular code reviews. Employed Sonarqube for continuous analysis of codebase.
+
+Skills & Technologies:
+
+- Proficient in React/TypeScript stack utilizing modern frontend design patterns like hooks and context API.
+- Experience working with Gitlab as a repository CI/CD platform.
+- Strong knowledge of AWS cloud services used during application development process.
+- Solid understanding of responsive web design principles ensuring compatibility across various devices.
+
+Soft Skills:
+
+- Proven ability to lead teams effectively while maintaining open communication channels fostering collaboration among members.
+- Demonstrated problem-solving skills and attention to detail, ensuring the delivery of high-quality work.
+- Ability to adapt and thrive in fast-paced environments.
 
 ### Axa France - Tech Lead Frontend 🇫🇷
 🗓 ___2017 - 2019___
