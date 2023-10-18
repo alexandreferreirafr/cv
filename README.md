@@ -46,7 +46,7 @@ Alexandre Ferreira - Geneva CH 🇨🇭
 
 # Experiences
 
-### Richemont - Frontend Consultant 🇨🇭
+### Richemont - Senior Frontend Developer 🇨🇭
 🗓 ___2021 - current___
 
 #### Store Front Accelerator
