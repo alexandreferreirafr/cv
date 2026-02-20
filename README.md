@@ -9,12 +9,13 @@ Alexandre Ferreira - Geneva CH 🇨🇭
 - React / TypeScript
 - NextJS
 - Node
+- Apollo
 - Prisma
 - tRPC
 - GraphQL
 - Tailwind
 - Nx
-- Jest
+- Jest/ Vitest
 - Testing Library
 - Cypress
 - Storybook
@@ -46,8 +47,45 @@ Alexandre Ferreira - Geneva CH 🇨🇭
 
 # Experiences
 
+### Groupe Mutuel - Senior Fullstack Developer 🇨🇭
+🗓 ___2024 - current___
+
+Espace Client Entreprise
+
+Enterprise customer platform enabling companies to manage insurance contracts, claims, invoices, and compensations online.
+
+Working as a Senior Fullstack Engineer in a DevOps-oriented Agile team, responsible for delivering complex features end-to-end — from technical design to production monitoring.
+
+Key contributions:
+
+- Designed and implemented scalable frontend and backend features using React / TypeScript and Node.js.
+- Built and maintained robust REST and GraphQL APIs, ensuring strong typing, validation, and domain consistency.
+- Contributed to architectural decisions in a microservices and event-driven (EDA) environment.
+- Deployed and operated services in a Docker / Kubernetes ecosystem with CI/CD pipelines.
+- Actively involved in production monitoring, incident analysis, and performance optimization.
+- Strengthened code quality standards through TDD, code reviews, and craftsmanship practices.
+- Mentored team members and promoted continuous improvement within the team.
+
+Skills & Technologies:
+
+- Frontend: React (hooks, context API), TypeScript, modular architecture, performance optimization, accessibility.
+- Backend: Node.js (TypeScript), REST, GraphQL, authentication & authorization patterns.
+- Architecture: Microservices, Event-Driven Architecture (Kafka), Domain-oriented design principles.
+- DevOps: Git, CI/CD, Docker, Kubernetes, monitoring & production responsibility.
+- Quality: TDD, automated testing, clean code, peer reviews.
+- Methodology: Agile / Scrum, cross-functional collaboration with Product and Business stakeholders.
+
+Soft Skills:
+
+- Strong ownership and accountability over production systems.
+- Proactive mindset with impact-oriented decision making.
+- Ability to challenge technical and product decisions constructively.
+- Clear communication with both technical and non-technical stakeholders.
+- Natural leadership and mentoring attitude.
+- Continuous improvement advocate.
+
 ### Richemont - Senior Frontend Developer 🇨🇭
-🗓 ___2021 - current___
+🗓 ___2021 - 2023___
 
 #### Store Front Accelerator
 
